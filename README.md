@@ -1,2 +1,2 @@
 # SMMMTD-College
- College Sample Website
+ sample indian college
